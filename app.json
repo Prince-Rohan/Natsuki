@@ -50,11 +50,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2027510494"
+         "value": "5030730429"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Itz_Sadew"
+         "value": "ishikki_akabane"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
@@ -74,7 +74,7 @@
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": "-xyz"
+         "value": "URWAVM2BWHQPCWCZ"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
